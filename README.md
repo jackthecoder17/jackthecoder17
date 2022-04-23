@@ -26,9 +26,6 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-- 🖥 &nbsp;
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-
 <br/>
 
 <a href="https://github.com/AVS1508">
@@ -42,9 +39,9 @@
 
 <p align="center">
   
-<a href="https://www.linkedin.com/in/ope-john-aa327920a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/ope__dev/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:johnnyopeyemi@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/ope-john-aa327920a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Abiodun%20Opeyemi%20John-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/ope__dev/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Ope_dev-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:johnnyopeyemi@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Johnnyopeyemi@gmail.com?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [Opeyemi](https://github.com/jackthecoder17)
