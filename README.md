@@ -18,7 +18,7 @@
   ![react](https://img.shields.io/badge/-react-333333?style=flat&logo=react)
   ![bootstrap](https://img.shields.io/badge/-bootstrap-333333?style=flat&logo=bootstrap)
   ![sass](https://img.shields.io/badge/-sass-333333?style=flat&logo=sass)
-  ![tailwind](https://img.shields.io/badge/-tailwind-333333?style=flat&logo=tailwind)
+  ![tailwindcss](https://img.shields.io/badge/-tailwind-333333?style=flat&logo=tailwindcss)
   
   
 - ⚙️ &nbsp;
