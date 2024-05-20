@@ -4,7 +4,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Lagos,Nigeria.
+- 🎓 &nbsp; Studying Mathematics and Computer Science at University of Lagos,Nigeria.
 - 🌱 &nbsp; Learning more about Front-end Development.
 
 
